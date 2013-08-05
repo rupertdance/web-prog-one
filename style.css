@@ -1,0 +1,15 @@
+body {color:#BEBEBE;}
+    p, h1, h2, h3 {font-family:  Helvetica, arial, sans-serif;}
+    body{text-align: center; background-color: #262626;}
+    #masthead{background-color: #262626;}
+    #about{background-color: #92929D; float:left; height:500px; }
+    #content{background-color: #262626; float:right; height:500px;} /* This is an ID declaration  3C3C3C*/
+    #footer{background-color: #262626; text-align:center;}
+    .strong{font-weight: bold; font-size: 14pt; color:#993D00; } /* This is an ID declaration*/
+    /*#navigation{background-color: #290052;}*/
+    #tablething{vertical-align: top;}
+    a:link {color:#853385;}    /* unvisited link */
+    a:visited {color:#C299C2;} /* visited link */
+    a:hover {color:#800080;}   /* mouse over link */
+    a:active {color:#0000FF;}  /* selected link */
+    
