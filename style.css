@@ -10,6 +10,10 @@
         font-size: 25pt; 
         font-style: italic;}
     
+    #beanie{height:100px;
+            width:100px; 
+            border:3;}
+
     #navigation{border-style: dotted;
         border-width: 1px;
         border-color: black; 
@@ -61,7 +65,7 @@
             margin: 0 auto;
             background-color: #eee;}
 
-    #footer{background-color: #eee;  
+    footer{background-color: #eee;  
         text-align:center;}
 
     .strong{font-weight: bold; font-size: 14pt; color:#993D00; } /* This is an ID declaration*/
